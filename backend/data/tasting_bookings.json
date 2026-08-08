@@ -1,0 +1,27 @@
+[
+  {
+    "bookingReference": "PASCO-TASTE-23980",
+    "productCode": "11518",
+    "productName": "Delhi Tikka Masala Cooking Sauce",
+    "productImage": "Pasco-Delhi-Tikka-Masala-Sauce.jpg",
+    "store": {
+      "id": "wigan-hq",
+      "name": "Pasco Foods Factory Shop (Wigan HQ)",
+      "address": "Pasco House, Pepper Mill Way",
+      "city": "Wigan",
+      "postcode": "WN3 4AL",
+      "phone": "01942 493220"
+    },
+    "tastingDate": "2026-08-07",
+    "tastingTimeSlot": "11:30 AM - 12:00 PM",
+    "partySize": 2,
+    "customer": {
+      "name": "Rohan Kumar",
+      "email": "rohan@example.co.uk",
+      "phone": "07123 456789"
+    },
+    "createdAt": "2026-08-06T17:45:41.261Z",
+    "_id": "6a74c84500d47f7f8535c4f3",
+    "__v": 0
+  }
+]

@@ -1,0 +1,304 @@
+/* Custom variables and theme tokens */
+:root {
+  --brand-primary: #8E1C15;         /* Deep Crimson Spice */
+  --brand-primary-light: #B82C22;   /* A bit brighter crimson */
+  --brand-secondary: #E39935;       /* Warm Turmeric Gold */
+  --brand-secondary-light: #F6CE84; /* Soft ginger gold */
+  
+  --bg-primary: #FAF6EE;            /* Heritage Cream Background */
+  --bg-secondary: #F0E6D8;          /* Warm Sand Background */
+  --bg-card: #FFFFFF;
+  
+  --text-primary: #291F1C;          /* Espresso Brown */
+  --text-secondary: #6B5750;        /* Roasted Spice Grey */
+  --text-light: #8E7770;
+  
+  --accent-green: #3F704D;          /* Coriander Leaf Green */
+  --accent-green-light: #528E63;
+  --accent-orange: #D45B12;         /* Chilli Red-Orange */
+  
+  --white: #FFFFFF;
+  --black: #000000;
+  
+  --glass-bg: rgba(255, 255, 255, 0.75);
+  --glass-bg-dark: rgba(41, 31, 28, 0.85);
+  --glass-border: rgba(255, 255, 255, 0.4);
+  --glass-border-dark: rgba(255, 255, 255, 0.1);
+  
+  --font-title: 'Outfit', sans-serif;
+  --font-body: 'Plus Jakarta Sans', sans-serif;
+  --font-serif: 'Playfair Display', serif;
+  
+  --border-radius-sm: 8px;
+  --border-radius-md: 16px;
+  --border-radius-lg: 32px;
+  --border-radius-full: 9999px;
+  
+  --box-shadow-sm: 0 4px 12px rgba(41, 31, 28, 0.04);
+  --box-shadow-md: 0 12px 32px rgba(41, 31, 28, 0.08);
+  --box-shadow-lg: 0 20px 48px rgba(41, 31, 28, 0.12);
+  --box-shadow-glow: 0 0 20px rgba(227, 153, 53, 0.3);
+  
+  --transition-fast: 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-normal: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Reset & Base Styles */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  line-height: 1.6;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-title);
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-primary);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--brand-primary);
+  border-radius: var(--border-radius-full);
+  border: 3px solid var(--bg-primary);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--brand-primary-light);
+}
+
+/* Animation Utilities */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulseGlow {
+  0% { transform: scale(1); box-shadow: 0 0 10px rgba(227, 153, 53, 0.2); }
+  50% { transform: scale(1.02); box-shadow: 0 0 25px rgba(227, 153, 53, 0.4); }
+  100% { transform: scale(1); box-shadow: 0 0 10px rgba(227, 153, 53, 0.2); }
+}
+
+.animate-fade-in {
+  animation: fadeIn var(--transition-normal) forwards;
+}
+
+.animate-slide-up {
+  animation: slideUp var(--transition-normal) forwards;
+}
+
+/* Premium Layout Components */
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* Styled Buttons */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-title);
+  font-weight: 600;
+  font-size: 1rem;
+  padding: 12px 28px;
+  border-radius: var(--border-radius-full);
+  transition: all var(--transition-fast);
+  cursor: pointer;
+  border: none;
+  gap: 8px;
+}
+
+.btn-primary {
+  background-color: var(--brand-primary);
+  color: var(--white);
+}
+
+.btn-primary:hover {
+  background-color: var(--brand-primary-light);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(142, 28, 21, 0.2);
+}
+
+.btn-secondary {
+  background-color: transparent;
+  color: var(--brand-primary);
+  border: 2px solid var(--brand-primary);
+}
+
+.btn-secondary:hover {
+  background-color: var(--brand-primary);
+  color: var(--white);
+  transform: translateY(-2px);
+}
+
+.btn-gold {
+  background-color: var(--brand-secondary);
+  color: var(--text-primary);
+  box-shadow: var(--box-shadow-sm);
+}
+
+.btn-gold:hover {
+  background-color: var(--brand-secondary-light);
+  transform: translateY(-2px);
+  box-shadow: var(--box-shadow-glow);
+}
+
+/* Glassmorphism utility */
+.glass {
+  background: var(--glass-bg);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--glass-border);
+}
+
+.glass-dark {
+  background: var(--glass-bg-dark);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--glass-border-dark);
+  color: var(--white);
+}
+
+/* Badges for dietary & heat */
+.badge {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 4px 10px;
+  border-radius: var(--border-radius-full);
+  letter-spacing: 0.05em;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.badge-dietary {
+  background-color: rgba(63, 112, 77, 0.1);
+  color: var(--accent-green);
+  border: 1px solid rgba(63, 112, 77, 0.2);
+}
+
+.badge-heat-none {
+  background-color: #E2E8F0;
+  color: #475569;
+}
+
+.badge-heat-mild {
+  background-color: #FEF3C7;
+  color: #D97706;
+}
+
+.badge-heat-medium {
+  background-color: #FFEDD5;
+  color: #EA580C;
+}
+
+.badge-heat-hot {
+  background-color: #FEE2E2;
+  color: #DC2626;
+}
+
+.badge-heat-veryhot {
+  background-color: #F87171;
+  color: #7F1D1D;
+  animation: pulseGlow 2s infinite;
+}
+
+/* Form Styles */
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  font-size: 0.9rem;
+  font-weight: 600;
+  margin-bottom: 6px;
+  color: var(--text-secondary);
+}
+
+.form-control {
+  width: 100%;
+  padding: 14px 18px;
+  border-radius: var(--border-radius-md);
+  border: 1px solid rgba(107, 87, 80, 0.2);
+  background-color: rgba(255, 255, 255, 0.8);
+  font-family: var(--font-body);
+  font-size: 1rem;
+  color: var(--text-primary);
+  transition: all var(--transition-fast);
+}
+
+.form-control:focus {
+  outline: none;
+  border-color: var(--brand-primary);
+  box-shadow: 0 0 0 3px rgba(142, 28, 21, 0.1);
+  background-color: var(--white);
+}
+
+textarea.form-control {
+  resize: vertical;
+  min-height: 120px;
+}
+
+/* Subtle repeating Indian mandala pattern background */
+.bg-mandala {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160' viewBox='0 0 160 160'%3E%3Cg fill='%238E1C15' fill-opacity='0.02'%3E%3Ccircle cx='80' cy='80' r='60' fill='none' stroke='%238E1C15' stroke-width='1' stroke-opacity='0.035'/%3E%3Ccircle cx='80' cy='80' r='40' fill='none' stroke='%238E1C15' stroke-width='1.5' stroke-opacity='0.035' stroke-dasharray='4%2C4'/%3E%3Cpath d='M80 10 C83 45, 95 65, 150 80 C95 95, 83 115, 80 150 C77 115, 65 95, 10 80 C65 65, 77 45, 80 10 Z'/%3E%3Cpath d='M80 35 C82 58, 102 78, 125 80 C102 82, 82 102, 80 125 C78 102, 58 82, 35 80 C58 78, 78 58, 80 35 Z' opacity='0.6'/%3E%3Ccircle cx='80' cy='80' r='10'/%3E%3Ccircle cx='80' cy='10' r='3'/%3E%3Ccircle cx='150' cy='80' r='3'/%3E%3Ccircle cx='80' cy='150' r='3'/%3E%3Ccircle cx='10' cy='80' r='3'/%3E%3C/g%3E%3C/svg%3E");
+  background-repeat: repeat;
+}
+

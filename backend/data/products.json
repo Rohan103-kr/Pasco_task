@@ -1,0 +1,1497 @@
+[
+  {
+    "name": "Delhi Tikka Masala Cooking Sauce",
+    "category": "retail",
+    "rangeType": "Cooking Sauces",
+    "size": "350G",
+    "productCode": "11518",
+    "unitBarcode": "7178602000018",
+    "caseBarcode": "7178600003042",
+    "description": "A luxurious Delhi style tomato sauce perfectly spiced with hints of cumin & coriander. Made in the UK using locally sourced cream, vegetables and yogurt. 100% natural.",
+    "image": "Pasco-Delhi-Tikka-Masala-Sauce.jpg",
+    "spiciness": "medium",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Navratan Korma Cooking Sauce",
+    "category": "retail",
+    "rangeType": "Cooking Sauces",
+    "size": "350G",
+    "productCode": "11516",
+    "unitBarcode": "7178602000025",
+    "caseBarcode": "7178600003028",
+    "description": "A rich, creamy sauce with a deliciously balanced blend of authentic mild spices, coconut, and yogurt. 100% natural, additive and preservative free.",
+    "image": "Pasco-Navratan-Korma-Sauce.jpg",
+    "spiciness": "mild",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Mumbai Palak Masala Cooking Sauce",
+    "category": "retail",
+    "rangeType": "Cooking Sauces",
+    "size": "350G",
+    "productCode": "11461",
+    "unitBarcode": "7178604000061",
+    "caseBarcode": "7178600004063",
+    "description": "A fragrant, creamy spinach sauce blended with authentic spices. Made in the UK using locally sourced cream, vegetables and yogurt.",
+    "image": "Pasco-Mumbai-Palak-Masala-Sauce.jpg",
+    "spiciness": "medium",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Rajastani Jalfrezi Cooking Sauce",
+    "category": "retail",
+    "rangeType": "Cooking Sauces",
+    "size": "350G",
+    "productCode": "11515",
+    "unitBarcode": "7178604000023",
+    "caseBarcode": "7178600004018",
+    "description": "A tangy spiced tomato sauce combined with sweet peppers & coriander. Made in the UK using locally sourced ingredients. 100% natural.",
+    "image": "Pasco-Rajestani-Jalfrezi.jpg",
+    "spiciness": "hot",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Punjabi Butter Chicken Cooking Sauce",
+    "category": "retail",
+    "rangeType": "Cooking Sauces",
+    "size": "350G",
+    "productCode": "11466",
+    "unitBarcode": "7178604000030",
+    "caseBarcode": "7178600004056",
+    "description": "A rich, creamy tomato and onion sauce blended with traditional Indian spices. Made in the United Kingdom using locally sourced cream & yogurt.",
+    "image": "Pasco-Punjabi-Butter-Chicken-Sauce.jpg",
+    "spiciness": "medium",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Goanese Vindaloo Cooking Sauce",
+    "category": "retail",
+    "rangeType": "Cooking Sauces",
+    "size": "350G",
+    "productCode": "11471",
+    "unitBarcode": "7178604000054",
+    "caseBarcode": "7178600004049",
+    "description": "A fiery Goan style curry sauce infused with roasted spices, vinegar tang, and red chilis. 100% natural, additive and preservative free.",
+    "image": "Pasco-Goannese-Vindaloo-Sauce.jpg",
+    "spiciness": "very hot",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Tandoori Marinade Paste",
+    "category": "retail",
+    "rangeType": "Cooking Pastes",
+    "size": "260G",
+    "productCode": "11520",
+    "unitBarcode": "7178600000058",
+    "caseBarcode": "7178600001000",
+    "description": "An aromatic cooking paste lightly spiced with hint of coriander & chili. Made using a secret family blend of herbs and spices. Perfect marinade to roast, grill or barbecue.",
+    "image": "Pasco-Tandoori-Paste-Paste.jpg",
+    "spiciness": "medium",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Tikka Marinade Paste",
+    "category": "retail",
+    "rangeType": "Cooking Pastes",
+    "size": "260G",
+    "productCode": "11521",
+    "unitBarcode": "7178600000119",
+    "caseBarcode": "7178600001017",
+    "description": "A cooking paste lightly spiced with hint of garlic & chili. Perfect as a base for curry or marinade to roast, grill or barbecue.",
+    "image": "Pasco-Tikka-Marinade.jpg",
+    "spiciness": "medium",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Kashmiri Masala Paste",
+    "category": "retail",
+    "rangeType": "Cooking Pastes",
+    "size": "260G",
+    "productCode": "11522",
+    "unitBarcode": "7178600000126",
+    "caseBarcode": "7178600001048",
+    "description": "A great addition to curries and stir fries. Crafted with Kashmiri red chilis and ground herbs for rich red color and deep aromatic warmth.",
+    "image": "Pasco-Kashmiri-Masala.jpg",
+    "spiciness": "medium",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Mild Curry Paste",
+    "category": "retail",
+    "rangeType": "Cooking Pastes",
+    "size": "260G",
+    "productCode": "11526",
+    "unitBarcode": "7178600000140",
+    "caseBarcode": "7178600001062",
+    "description": "A perfect mild curry base using a select array of spices. Secret family blend, 100% natural.",
+    "image": "Pasco-Mild-Curry-Paste.jpg",
+    "spiciness": "mild",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Hot Curry Paste",
+    "category": "retail",
+    "rangeType": "Cooking Pastes",
+    "size": "260G",
+    "productCode": "11525",
+    "unitBarcode": "7178600000133",
+    "caseBarcode": "7178600001079",
+    "description": "A hot curry paste using a potent blend of spices. Perfect for authentic Indian curry lovers.",
+    "image": "Pasco-Hot-Curry-Paste.jpg",
+    "spiciness": "hot",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Madras Curry Paste",
+    "category": "retail",
+    "rangeType": "Cooking Pastes",
+    "size": "260G",
+    "productCode": "11533",
+    "unitBarcode": "7178600000263",
+    "caseBarcode": "7178600001093",
+    "description": "A hot, rich South Indian style curry paste with roasted coriander, cumin, turmeric, and chilis.",
+    "image": "Pasco-Madras-Curry-Paste.jpg",
+    "spiciness": "hot",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Rogan Josh Curry Paste",
+    "category": "retail",
+    "rangeType": "Cooking Pastes",
+    "size": "260G",
+    "productCode": "11517",
+    "unitBarcode": "7178600000232",
+    "caseBarcode": "7178600001130",
+    "description": "Authentic Kashmiri style Rogan Josh paste with intense notes of cardamom, cloves, and fennel.",
+    "image": "Pasco-Rogan-Josh-Curry-Paste.jpg",
+    "spiciness": "medium",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Vindaloo Curry Paste",
+    "category": "retail",
+    "rangeType": "Cooking Pastes",
+    "size": "260G",
+    "productCode": "11534",
+    "unitBarcode": "7178600000157",
+    "caseBarcode": "7178600001055",
+    "description": "Extremely hot and sour curry paste made with chili, mustard seeds, vinegar, and garlic.",
+    "image": "Pasco-Vindaloo-Curry-Paste.jpg",
+    "spiciness": "very hot",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Tikka Masala Curry Paste",
+    "category": "retail",
+    "rangeType": "Cooking Pastes",
+    "size": "260G",
+    "productCode": "11535",
+    "unitBarcode": "7178600000454",
+    "caseBarcode": "7178600002014",
+    "description": "Traditional blend of spices to construct a classic Tikka Masala curry base with tomatoes & yogurt.",
+    "image": "Pasco-Tikka-Masala-Paste.jpg",
+    "spiciness": "medium",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Korma Curry Paste",
+    "category": "retail",
+    "rangeType": "Cooking Pastes",
+    "size": "260G",
+    "productCode": "11529",
+    "unitBarcode": "7178600000942",
+    "caseBarcode": "7178600001123",
+    "description": "Mild, sweet paste containing ground almonds, desiccated coconut, and delicate spices for korma dishes.",
+    "image": "Pasco-Korma-Curry-Paste.jpg",
+    "spiciness": "mild",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Green Masala Paste",
+    "category": "retail",
+    "rangeType": "Cooking Pastes",
+    "size": "260G",
+    "productCode": "11531",
+    "unitBarcode": "7178600000096",
+    "caseBarcode": "7178600001116",
+    "description": "A vibrant green herbal paste with coriander, mint, green chilis, and fresh ginger.",
+    "image": "Pasco-Green-Masala-Paste.jpg",
+    "spiciness": "hot",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Biryani Paste",
+    "category": "retail",
+    "rangeType": "Cooking Pastes",
+    "size": "260G",
+    "productCode": "11527",
+    "unitBarcode": "7178600000225",
+    "caseBarcode": "7178600001086",
+    "description": "A classic fragrant rice marinade and spice base to make royal Indian Biryani dishes.",
+    "image": "Pasco-Biryani-Paste.jpg",
+    "spiciness": "medium",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Kebab Paste",
+    "category": "retail",
+    "rangeType": "Cooking Pastes",
+    "size": "260G",
+    "productCode": "11523",
+    "unitBarcode": "7178600000027",
+    "caseBarcode": "7178600001024",
+    "description": "Specially formulated spice paste for creating seekh and shish kebabs. Full of depth and smoky warmth.",
+    "image": "Pasco-Kebab-Paste.jpg",
+    "spiciness": "medium",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Garam Masala Paste",
+    "category": "retail",
+    "rangeType": "Cooking Pastes",
+    "size": "260G",
+    "productCode": "11528",
+    "unitBarcode": "7178600000270",
+    "caseBarcode": "7178600001109",
+    "description": "A finishing or base paste of roasted warming spices (cloves, cinnamon, black cardamom).",
+    "image": "Pasco-Garam-Masala.jpg",
+    "spiciness": "medium",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Balti Curry Paste",
+    "category": "retail",
+    "rangeType": "Cooking Pastes",
+    "size": "260G",
+    "productCode": "11524",
+    "unitBarcode": "7178600000287",
+    "caseBarcode": "7178600001031",
+    "description": "A medium spiced curry paste balanced with coriander and coconut. Perfect for stir-fry curries.",
+    "image": "Pasco-Balti-Paste.jpg",
+    "spiciness": "medium",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Mango Pickle Mild",
+    "category": "retail",
+    "rangeType": "Pickles & Chutneys",
+    "size": "260G",
+    "productCode": "11570",
+    "unitBarcode": "71786000000188",
+    "caseBarcode": "7178600001147",
+    "description": "Made using selected fruits and vegetables sourced from our partner farmers & farm plantations. Perfect addition to any Indian dish!",
+    "image": "Pasco-Mild-Mango-Pickle.jpg",
+    "spiciness": "mild",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Mango Pickle Hot",
+    "category": "retail",
+    "rangeType": "Pickles & Chutneys",
+    "size": "260G",
+    "productCode": "11571",
+    "unitBarcode": "7178600001628",
+    "caseBarcode": "7178600001154",
+    "description": "Spicy, tangy Indian pickle with raw green mango cubes, red chili, and mustard oils.",
+    "image": "Pasco-Hot-Mango-Pickle.jpg",
+    "spiciness": "hot",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Lime Pickle Mild",
+    "category": "retail",
+    "rangeType": "Pickles & Chutneys",
+    "size": "260G",
+    "productCode": "11574",
+    "unitBarcode": "7178600000188",
+    "caseBarcode": "7178600001161",
+    "description": "Tender pieces of lime cured with mild spices. A classic accompaniment for curries and papadums.",
+    "image": "Pasco-Mild-Lime-Pickle.jpg",
+    "spiciness": "mild",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Lime Pickle Hot",
+    "category": "retail",
+    "rangeType": "Pickles & Chutneys",
+    "size": "260G",
+    "productCode": "11573",
+    "unitBarcode": "7178600000201",
+    "caseBarcode": "7178600001178",
+    "description": "A sharp, fiery condiment of lime slices infused with chili and spices.",
+    "image": "Pasco-Hot-Lime-Pickle.jpg",
+    "spiciness": "hot",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Mixed Pickle",
+    "category": "retail",
+    "rangeType": "Pickles & Chutneys",
+    "size": "260G",
+    "productCode": "11572",
+    "unitBarcode": "7178600000218",
+    "caseBarcode": "7178600001185",
+    "description": "A delicious mix of mangoes, carrots, limes, green chilis, and ginger in a mustard oil base.",
+    "image": "Pasco-Mixed-Pickle.jpg",
+    "spiciness": "medium",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Chilli Pickle",
+    "category": "retail",
+    "rangeType": "Pickles & Chutneys",
+    "size": "260G",
+    "productCode": "11575",
+    "unitBarcode": "7178600000256",
+    "caseBarcode": "7178600001192",
+    "description": "Hot green chilis chopped and cured with mustard seed oil and spices. Very spicy.",
+    "image": "Pasco-Chilli-Pickle.jpg",
+    "spiciness": "hot",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Garlic & Chilli Pickle",
+    "category": "retail",
+    "rangeType": "Pickles & Chutneys",
+    "size": "260G",
+    "productCode": "11578",
+    "unitBarcode": "7178600000706",
+    "caseBarcode": "7178600001284",
+    "description": "The perfect combination of sharp garlic cloves and fiery chilis for ultimate kick.",
+    "image": "Pasco-Garlic-Chilli-Pickle.jpg",
+    "spiciness": "hot",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Garlic Pickle",
+    "category": "retail",
+    "rangeType": "Pickles & Chutneys",
+    "size": "260G",
+    "productCode": "11581",
+    "unitBarcode": "7178602021860",
+    "caseBarcode": "7178600001307",
+    "description": "Whole garlic cloves pickled with spices and oil, giving a soft texture and deep savory garlic taste.",
+    "image": "Pasco-Garlic-Pickle.jpg",
+    "spiciness": "medium",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Sweet Mango Chutney",
+    "category": "retail",
+    "rangeType": "Pickles & Chutneys",
+    "size": "320G",
+    "productCode": "11555",
+    "unitBarcode": "7178600000249",
+    "caseBarcode": "7178600001208",
+    "description": "Our chutneys are made using selected fruits sourced to create that homemade authentic flavour. Perfect dip for poppadoms.",
+    "image": "Pasco-Sweet-Mango-Chutney.jpg",
+    "spiciness": "none",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Hot Mango Chutney",
+    "category": "retail",
+    "rangeType": "Pickles & Chutneys",
+    "size": "320G",
+    "productCode": "11556",
+    "unitBarcode": "7178600000171",
+    "caseBarcode": "7178600001246",
+    "description": "A sweet mango base with additional red chili powder for a sweet and spicy kick.",
+    "image": "Pasco-Hot-Mango-Chutney.jpg",
+    "spiciness": "medium",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Garlic Puree",
+    "category": "retail",
+    "rangeType": "Condiments",
+    "size": "260G",
+    "productCode": "11594",
+    "unitBarcode": "7178600000881",
+    "caseBarcode": "7178600001307",
+    "description": "Made using the freshest garlic cloves. A great addition to curries and stir fries.",
+    "image": "Pasco-Garlic-Puree.jpg",
+    "spiciness": "none",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Ginger Puree",
+    "category": "retail",
+    "rangeType": "Condiments",
+    "size": "260G",
+    "productCode": "11592",
+    "unitBarcode": "7178601000033",
+    "caseBarcode": "7178600001314",
+    "description": "Made using the freshest ginger root. Perfect for spicing up any dish quickly.",
+    "image": "Pasco-Ginger-Puree.jpg",
+    "spiciness": "none",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Garlic & Ginger Puree",
+    "category": "retail",
+    "rangeType": "Condiments",
+    "size": "260G",
+    "productCode": "11597",
+    "unitBarcode": "7178601000026",
+    "caseBarcode": "7178600032462",
+    "description": "50/50 blend of fresh ginger and garlic puree. A great addition to curries and stir fries.",
+    "image": "Pasco-Garlic-Ginger-Puree.jpg",
+    "spiciness": "none",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Mint Sauce",
+    "category": "retail",
+    "rangeType": "Condiments",
+    "size": "260G",
+    "productCode": "11595",
+    "unitBarcode": "7178601000156",
+    "caseBarcode": "7178600001345",
+    "description": "An authentic mint sauce perfect as a relish or accompaniment for curries and papadums.",
+    "image": "Pasco-Classic-Mint-Sauce.jpg",
+    "spiciness": "none",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Pasta Roma Tomato & Chilli",
+    "category": "retail",
+    "rangeType": "Pasta Roma Range",
+    "size": "350G",
+    "productCode": "PR101",
+    "unitBarcode": "5202000110122",
+    "caseBarcode": "5202000500114",
+    "description": "Authentic Italian flavour at home. Guaranteed to save you money without compromising quality. Hints of red chilli & herbs.",
+    "image": "extracted_p14_img1.png",
+    "spiciness": "mild",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Pasta Roma Tomato & Basil",
+    "category": "retail",
+    "rangeType": "Pasta Roma Range",
+    "size": "350G",
+    "productCode": "PR102",
+    "unitBarcode": "5202000110146",
+    "caseBarcode": "5202000500138",
+    "description": "Authentic Italian style tomato sauce accompanied with hints of sweet basil and garlic.",
+    "image": "extracted_p14_img2.png",
+    "spiciness": "none",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Pasta Roma Tomato & Garlic",
+    "category": "retail",
+    "rangeType": "Pasta Roma Range",
+    "size": "350G",
+    "productCode": "PR103",
+    "unitBarcode": "5202000110139",
+    "caseBarcode": "5202000500121",
+    "description": "Classic tomato pasta sauce slow-cooked with fresh garlic cloves and Italian herbs.",
+    "image": "extracted_p14_img3.png",
+    "spiciness": "none",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Pasta Roma Bolognese",
+    "category": "retail",
+    "rangeType": "Pasta Roma Range",
+    "size": "350G",
+    "productCode": "PR104",
+    "unitBarcode": "5202000110153",
+    "caseBarcode": "5202000500145",
+    "description": "Rich tomato pasta sauce seasoned with beef-style vegetables and herbs, perfect for spaghetti.",
+    "image": "extracted_p14_img4.png",
+    "spiciness": "none",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Al Rifai Apricot and Coriander Tagine Sauce",
+    "category": "retail",
+    "rangeType": "Al Rifai Range",
+    "size": "350G",
+    "productCode": "AR201",
+    "unitBarcode": "5202000300011",
+    "caseBarcode": "5202000600011",
+    "description": "Discover the rich, vibrant flavours of Morocco. Authentic tagine sauce with real apricots and fresh coriander.",
+    "image": "extracted_p16_img1.png",
+    "spiciness": "mild",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Al Rifai Moroccan Style Tagine Sauce",
+    "category": "retail",
+    "rangeType": "Al Rifai Range",
+    "size": "350G",
+    "productCode": "AR202",
+    "unitBarcode": "5202000300028",
+    "caseBarcode": "5202000600028",
+    "description": "An aromatic blend of rich spices including cumin, cinnamon, and turmeric for a classic Moroccan tagine.",
+    "image": "extracted_p16_img2.png",
+    "spiciness": "medium",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Al Rifai Moroccan Style Meatball Sauce",
+    "category": "retail",
+    "rangeType": "Al Rifai Range",
+    "size": "350G",
+    "productCode": "AR203",
+    "unitBarcode": "5202000300035",
+    "caseBarcode": "5202000600035",
+    "description": "A seasoned tomato and onion sauce tailored specifically to simmer authentic Moroccan meatballs (Kefta).",
+    "image": "extracted_p16_img3.png",
+    "spiciness": "mild",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Al Rifai Smoky Harissa Tagine Sauce",
+    "category": "retail",
+    "rangeType": "Al Rifai Range",
+    "size": "350G",
+    "productCode": "AR204",
+    "unitBarcode": "5202000300042",
+    "caseBarcode": "5202000600042",
+    "description": "Spicy tomato sauce packed with smoky roasted chilis, garlic, and North African coriander spices.",
+    "image": "extracted_p16_img4.png",
+    "spiciness": "hot",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Al Rifai Chicken Tagine Sauce",
+    "category": "retail",
+    "rangeType": "Al Rifai Range",
+    "size": "350G",
+    "productCode": "AR205",
+    "unitBarcode": "5202000300059",
+    "caseBarcode": "5202000600059",
+    "description": "A traditional lemon and olive infused tagine sauce tailored for tender poultry and chicken dishes.",
+    "image": "al-rifai.jpg",
+    "spiciness": "mild",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Al Rifai Moussaka Sauce",
+    "category": "retail",
+    "rangeType": "Al Rifai Range",
+    "size": "350G",
+    "productCode": "AR206",
+    "unitBarcode": "5202000300066",
+    "caseBarcode": "5202000600066",
+    "description": "Rich Mediterranean eggplant & tomato sauce for layering baked Moussaka casseroles.",
+    "image": "al-rifai.jpg",
+    "spiciness": "mild",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Al Rifai Harissa Paste",
+    "category": "retail",
+    "rangeType": "Al Rifai Range",
+    "size": "180G",
+    "productCode": "AR207",
+    "unitBarcode": "5202000300073",
+    "caseBarcode": "5202000600073",
+    "description": "Highly concentrated Moroccan chili paste. Perfect rub for lamb, poultry, or roasted vegetables.",
+    "image": "extracted_p16_img7.png",
+    "spiciness": "hot",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Al Rifai Shawarma Kebab Paste",
+    "category": "retail",
+    "rangeType": "Al Rifai Range",
+    "size": "165g",
+    "productCode": "AR208",
+    "unitBarcode": "5202000300080",
+    "caseBarcode": "5202000600080",
+    "description": "Moroccan-inspired shawarma spices blend with citrus oils for marinating grilled or rotisserie meats.",
+    "image": "extracted_p16_img8.png",
+    "spiciness": "medium",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Al Rifai Shish Kebab Marinade Paste",
+    "category": "retail",
+    "rangeType": "Al Rifai Range",
+    "size": "165g",
+    "productCode": "AR209",
+    "unitBarcode": "5202000300097",
+    "caseBarcode": "5202000600097",
+    "description": "Aromatic North African spice blend for marinating meat or vegetable skewers for the BBQ.",
+    "image": "al-rifai.jpg",
+    "spiciness": "medium",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Yellow River Chinese Curry Sauce",
+    "category": "retail",
+    "rangeType": "Yellow River Range",
+    "size": "350G",
+    "productCode": "YR301",
+    "unitBarcode": "5025567100203",
+    "caseBarcode": "5025567100210",
+    "description": "Bring the bold, comforting flavours of Chinese cuisine to your kitchen. Made in the UK.",
+    "image": "extracted_p18_img1.png",
+    "spiciness": "mild",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Yellow River Sweet & Sour Sauce",
+    "category": "retail",
+    "rangeType": "Yellow River Range",
+    "size": "350G",
+    "productCode": "YR302",
+    "unitBarcode": "5025567600031",
+    "caseBarcode": "5025567600048",
+    "description": "Classic Chinese Sweet & Sour sauce loaded with real pineapple juice and vinegar tang.",
+    "image": "extracted_p18_img2.png",
+    "spiciness": "none",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Yellow River Katsu Curry Sauce",
+    "category": "retail",
+    "rangeType": "Yellow River Range",
+    "size": "350G",
+    "productCode": "YR303",
+    "unitBarcode": "5025567600017",
+    "caseBarcode": "5025567600024",
+    "description": "A smooth Japanese-style katsu curry sauce, lightly sweet and spiced with mild curry powders.",
+    "image": "extracted_p18_img3.png",
+    "spiciness": "mild",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Yellow River Green Thai Curry Sauce",
+    "category": "retail",
+    "rangeType": "Yellow River Range",
+    "size": "350G",
+    "productCode": "YR304",
+    "unitBarcode": "5025567600079",
+    "caseBarcode": "5025567600086",
+    "description": "Aromatic Thai green curry sauce with lemongrass, coconut milk, kaffir lime, and green chilis.",
+    "image": "yellow-river.jpg",
+    "spiciness": "medium",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Yellow River Chilli Garlic Sauce",
+    "category": "retail",
+    "rangeType": "Yellow River Range",
+    "size": "350G",
+    "productCode": "YR305",
+    "unitBarcode": "5025567600093",
+    "caseBarcode": "5025567600109",
+    "description": "A classic Chinese stir-fry sauce combining fiery red chilis with a heavy dose of garlic.",
+    "image": "extracted_p18_img5.png",
+    "spiciness": "hot",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Yellow River Red Thai Curry Sauce",
+    "category": "retail",
+    "rangeType": "Yellow River Range",
+    "size": "350G",
+    "productCode": "YR306",
+    "unitBarcode": "5025567600116",
+    "caseBarcode": "5025567600123",
+    "description": "Rich Thai red curry sauce with coconut milk, red chili paste, and fragrant herbs.",
+    "image": "yellow-river.jpg",
+    "spiciness": "hot",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Yellow River Hoisin Sauce",
+    "category": "retail",
+    "rangeType": "Yellow River Range",
+    "size": "350G",
+    "productCode": "YR307",
+    "unitBarcode": "5025567600130",
+    "caseBarcode": "5025567600147",
+    "description": "A thick, sweet Cantonese glaze sauce made with fermented soybeans, garlic, and spices.",
+    "image": "yellow-river.jpg",
+    "spiciness": "none",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Yellow River Katsu Curry Paste",
+    "category": "retail",
+    "rangeType": "Yellow River Range",
+    "size": "180G",
+    "productCode": "YR308",
+    "unitBarcode": "5025567600154",
+    "caseBarcode": "5025567600161",
+    "description": "Concentrated Japanese curry paste. Simply dilute with water/broth to make rich Katsu gravy.",
+    "image": "extracted_p18_img8.png",
+    "spiciness": "mild",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Yellow River Green Curry Paste",
+    "category": "retail",
+    "rangeType": "Yellow River Range",
+    "size": "180G",
+    "productCode": "YR309",
+    "unitBarcode": "5025567600178",
+    "caseBarcode": "5025567600185",
+    "description": "Authentic Thai green curry paste with fresh green chilis, galangal, lemongrass, and lime leaves.",
+    "image": "yellow-river.jpg",
+    "spiciness": "medium",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Yellow River Red Curry Paste",
+    "category": "retail",
+    "rangeType": "Yellow River Range",
+    "size": "180G",
+    "productCode": "YR310",
+    "unitBarcode": "5025567600192",
+    "caseBarcode": "5025567600208",
+    "description": "Concentrated Thai red curry paste packed with dried red chilis, coriander root, and cumin.",
+    "image": "yellow-river.jpg",
+    "spiciness": "hot",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Foodservice Tandoori Paste",
+    "category": "foodservice",
+    "rangeType": "Cooking Pastes",
+    "size": "2.3KG",
+    "productCode": "11620",
+    "unitBarcode": "7178600003158",
+    "caseBarcode": "5026000000517",
+    "description": "Since 1999 Pasco Foods has been dedicated to providing high quality service & products to the foodservice trade. 2.3kg catering tub.",
+    "image": "extracted_p21_img1.png",
+    "spiciness": "medium",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Foodservice Tikka Paste",
+    "category": "foodservice",
+    "rangeType": "Cooking Pastes",
+    "size": "2.3KG",
+    "productCode": "11621",
+    "unitBarcode": "5025567000145",
+    "caseBarcode": "5026000000524",
+    "description": "High yield 2.3kg catering tub of Tikka Marinade Paste for restaurant and commercial kitchens.",
+    "image": "extracted_p21_img2.png",
+    "spiciness": "medium",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Foodservice Kashmiri Paste",
+    "category": "foodservice",
+    "rangeType": "Cooking Pastes",
+    "size": "2.3KG",
+    "productCode": "11622",
+    "unitBarcode": "7178600003394",
+    "caseBarcode": "5026000000548",
+    "description": "High yield 2.3kg catering tub of Kashmiri Masala Paste for restaurant use.",
+    "image": "extracted_p21_img3.png",
+    "spiciness": "medium",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Foodservice Balti Paste",
+    "category": "foodservice",
+    "rangeType": "Cooking Pastes",
+    "size": "2.3KG",
+    "productCode": "11624",
+    "unitBarcode": "7178600007774",
+    "caseBarcode": "5026000000753",
+    "description": "High yield 2.3kg catering tub of Balti Paste. High consistency & rich yield.",
+    "image": "Group-Image-Pasco-Catering-Sauces.jpg",
+    "spiciness": "medium",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Foodservice Madras Kebab Paste",
+    "category": "foodservice",
+    "rangeType": "Cooking Pastes",
+    "size": "2.3KG",
+    "productCode": "11623",
+    "unitBarcode": "717860000360",
+    "caseBarcode": "5026000000555",
+    "description": "High yield 2.3kg catering tub of Madras Kebab Paste for commercial skewers & grills.",
+    "image": "Group-Image-Pasco-Catering-Sauces.jpg",
+    "spiciness": "hot",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Foodservice Mild Curry Paste",
+    "category": "foodservice",
+    "rangeType": "Cooking Pastes",
+    "size": "2.3KG",
+    "productCode": "11624",
+    "unitBarcode": "5025567000190",
+    "caseBarcode": "5026000000784",
+    "description": "High yield 2.3kg catering tub of Mild Curry Paste.",
+    "image": "Group-Image-Pasco-Catering-Sauces.jpg",
+    "spiciness": "mild",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Pasco Punjabi Butter Chicken (Catering)",
+    "category": "foodservice",
+    "rangeType": "Cooking Sauces",
+    "size": "2.3KG",
+    "productCode": "FS1466",
+    "unitBarcode": "5026000001466",
+    "caseBarcode": "5026000002466",
+    "description": "Our easy Pasco Fast Kitchen range. Quick & Easy, No Prep, No Fuss! 2.3kg catering bucket.",
+    "image": "extracted_p23_img1.png",
+    "spiciness": "medium",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Pasco Goanese Vindaloo (Catering)",
+    "category": "foodservice",
+    "rangeType": "Cooking Sauces",
+    "size": "2.3KG",
+    "productCode": "FS1471",
+    "unitBarcode": "5026000001471",
+    "caseBarcode": "5026000002471",
+    "description": "Pasco Fast Kitchen range 2.3kg tub. Instant great taste without prep time.",
+    "image": "Group-Image-Pasco-Catering-Sauces.jpg",
+    "spiciness": "very hot",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Pasco Delhi Tikka Masala (Catering)",
+    "category": "foodservice",
+    "rangeType": "Cooking Sauces",
+    "size": "2.3KG",
+    "productCode": "FS1518",
+    "unitBarcode": "5026000001518",
+    "caseBarcode": "5026000002518",
+    "description": "Pasco Fast Kitchen range 2.3kg tub. High yield commercial Tikka Masala sauce.",
+    "image": "Group-Image-Pasco-Catering-Sauces.jpg",
+    "spiciness": "medium",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Pasco Navratan Korma (Catering)",
+    "category": "foodservice",
+    "rangeType": "Cooking Sauces",
+    "size": "2.3KG",
+    "productCode": "FS1516",
+    "unitBarcode": "5026000001516",
+    "caseBarcode": "5026000002516",
+    "description": "Pasco Fast Kitchen range 2.3kg tub. Mild creamy korma sauce for foodservice.",
+    "image": "Group-Image-Pasco-Catering-Sauces.jpg",
+    "spiciness": "mild",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Pasco Rajestani Jalfrezi (Catering)",
+    "category": "foodservice",
+    "rangeType": "Cooking Sauces",
+    "size": "2.3KG",
+    "productCode": "FS1515",
+    "unitBarcode": "5026000001515",
+    "caseBarcode": "5026000002515",
+    "description": "Pasco Fast Kitchen range 2.3kg tub. Tangy pepper and tomato sauce for foodservice.",
+    "image": "Group-Image-Pasco-Catering-Sauces.jpg",
+    "spiciness": "hot",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Foodservice Mixed Pickle",
+    "category": "foodservice",
+    "rangeType": "Pickles & Chutneys",
+    "size": "2.3KG",
+    "productCode": "11632",
+    "unitBarcode": "7178600020667",
+    "caseBarcode": "5026000000562",
+    "description": "Our foodservice pickles are guaranteed to save you money without compromising quality. 2.3kg tub.",
+    "image": "Group-Image-Pasco-Catering-Sauces.jpg",
+    "spiciness": "medium",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Foodservice Mango Pickle",
+    "category": "foodservice",
+    "rangeType": "Pickles & Chutneys",
+    "size": "2.3KG",
+    "productCode": "11653",
+    "unitBarcode": "5026000001653",
+    "caseBarcode": "5026000000579",
+    "description": "Authentic spicy mango pickle 2.3kg catering tub.",
+    "image": "Group-Image-Pasco-Catering-Sauces.jpg",
+    "spiciness": "hot",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Foodservice Lime Pickle Hot",
+    "category": "foodservice",
+    "rangeType": "Pickles & Chutneys",
+    "size": "2.3KG",
+    "productCode": "11573",
+    "unitBarcode": "7178600020650",
+    "caseBarcode": "5026000000586",
+    "description": "Hot lime pickle 2.3kg catering tub.",
+    "image": "Group-Image-Pasco-Catering-Sauces.jpg",
+    "spiciness": "hot",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Foodservice Lime Pickle Mild",
+    "category": "foodservice",
+    "rangeType": "Pickles & Chutneys",
+    "size": "2.3KG",
+    "productCode": "11574",
+    "unitBarcode": "7178600020643",
+    "caseBarcode": "5026000000593",
+    "description": "Mild lime pickle 2.3kg catering tub.",
+    "image": "Group-Image-Pasco-Catering-Sauces.jpg",
+    "spiciness": "mild",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Foodservice Sweet Mango Chutney",
+    "category": "foodservice",
+    "rangeType": "Pickles & Chutneys",
+    "size": "2.8KG",
+    "productCode": "11651",
+    "unitBarcode": "4026884116572",
+    "caseBarcode": "5026000000616",
+    "description": "Sweet mango chutney 2.8kg catering bucket for poppadoms and dips.",
+    "image": "Group-Image-Pasco-Catering-Sauces.jpg",
+    "spiciness": "none",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Foodservice Mint Sauce",
+    "category": "foodservice",
+    "rangeType": "Condiments",
+    "size": "2.3KG",
+    "productCode": "11632",
+    "unitBarcode": "7178600020667",
+    "caseBarcode": "5026000000562",
+    "description": "Our condiments are made using the freshest herbs. 2.3kg catering tub.",
+    "image": "Group-Image-Pasco-Catering-Sauces.jpg",
+    "spiciness": "none",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Foodservice Garlic Puree",
+    "category": "foodservice",
+    "rangeType": "Condiments",
+    "size": "2.3KG",
+    "productCode": "11646",
+    "unitBarcode": "5025567400051",
+    "caseBarcode": "5026000000654",
+    "description": "Fresh garlic puree 2.3kg catering tub.",
+    "image": "Group-Image-Pasco-Catering-Sauces.jpg",
+    "spiciness": "none",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Foodservice English Mustard",
+    "category": "foodservice",
+    "rangeType": "Condiments",
+    "size": "2.3KG",
+    "productCode": "11644",
+    "unitBarcode": "5025567400020",
+    "caseBarcode": "5026000000647",
+    "description": "Zesty English Mustard 2.3kg catering tub.",
+    "image": "Group-Image-Pasco-Catering-Sauces.jpg",
+    "spiciness": "hot",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Foodservice Prawn Cocktail Sauce",
+    "category": "foodservice",
+    "rangeType": "Condiments",
+    "size": "2.3KG",
+    "productCode": "11638",
+    "unitBarcode": "5025567400068",
+    "caseBarcode": "5026000000630",
+    "description": "Classic seafood & prawn cocktail sauce 2.3kg catering tub.",
+    "image": "Group-Image-Pasco-Catering-Sauces.jpg",
+    "spiciness": "none",
+    "dietary": [
+      "Vegetarian",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Foodservice Garlic Puree 1KG",
+    "category": "foodservice",
+    "rangeType": "Condiments",
+    "size": "1KG",
+    "productCode": "11534",
+    "unitBarcode": "7178602009769",
+    "caseBarcode": "5026000000678",
+    "description": "Fresh garlic puree 1kg tub.",
+    "image": "Group-Image-Pasco-Catering-Sauces.jpg",
+    "spiciness": "none",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Foodservice Ginger Puree 1KG",
+    "category": "foodservice",
+    "rangeType": "Condiments",
+    "size": "1KG",
+    "productCode": "11648",
+    "unitBarcode": "7178602009561",
+    "caseBarcode": "5026000000685",
+    "description": "Fresh ginger puree 1kg tub.",
+    "image": "Group-Image-Pasco-Catering-Sauces.jpg",
+    "spiciness": "none",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "Foodservice Garlic & Ginger Puree 1KG",
+    "category": "foodservice",
+    "rangeType": "Condiments",
+    "size": "1KG",
+    "productCode": "11647",
+    "unitBarcode": "7178602009806",
+    "caseBarcode": "5026000000692",
+    "description": "50/50 Garlic & Ginger puree 1kg tub.",
+    "image": "Group-Image-Pasco-Catering-Sauces.jpg",
+    "spiciness": "none",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "NYC Chilli Sauce",
+    "category": "foodservice",
+    "rangeType": "NYC Range",
+    "size": "2.28KG",
+    "productCode": "NYC003",
+    "unitBarcode": "5202000100024",
+    "caseBarcode": "5202000400025",
+    "description": "Our NYC foodservice condiments are made using a finest blend of ingredients. Guaranteed to save you money without compromising quality. Very hot chilli sauce.",
+    "image": "extracted_p26_img1.png",
+    "spiciness": "hot",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "NYC BBQ Sauce",
+    "category": "foodservice",
+    "rangeType": "NYC Range",
+    "size": "2.28KG",
+    "productCode": "NYC007",
+    "unitBarcode": "5202000100055",
+    "caseBarcode": "5202000500056",
+    "description": "Our NYC foodservice condiments range. Rich, dark, sticky BBQ sauce with sweet hickory wood smoke flavor.",
+    "image": "extracted_p26_img2.png",
+    "spiciness": "none",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "NYC Mild Piri Piri Sauce",
+    "category": "foodservice",
+    "rangeType": "NYC Range",
+    "size": "2.28KG",
+    "productCode": "NYC002",
+    "unitBarcode": "5025567500072",
+    "caseBarcode": "5202000400018",
+    "description": "Zesty Portuguese-style mild Piri Piri marinade & dipping sauce for flame-grilled chicken.",
+    "image": "extracted_p26_img3.png",
+    "spiciness": "mild",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  },
+  {
+    "name": "NYC Hot Piri Piri Sauce",
+    "category": "foodservice",
+    "rangeType": "NYC Range",
+    "size": "2.28KG",
+    "productCode": "NYC002-HOT",
+    "unitBarcode": "5025567500072",
+    "caseBarcode": "5202000400018",
+    "description": "Fiery African bird's eye chili Piri Piri sauce for wings, grills, and wraps.",
+    "image": "extracted_p26_img4.png",
+    "spiciness": "hot",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "Halal"
+    ]
+  }
+]

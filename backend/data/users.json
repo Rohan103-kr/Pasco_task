@@ -1,0 +1,29 @@
+[
+  {
+    "id": "usr_001",
+    "name": "John Smith",
+    "email": "john@example.co.uk",
+    "passwordHash": "$2b$10$49hbhlJnJtzwxspC3fudEOaxrEEz7cdphHRNuaWeYCSa2KwpQ0Eni",
+    "phone": "07123 456789",
+    "customerType": "Retail Consumer",
+    "createdAt": "2026-08-06T17:28:53.517Z"
+  },
+  {
+    "id": "usr_002",
+    "name": "Chef Ahad Chowdhury (Royal Oak)",
+    "email": "trade@curryhouse.co.uk",
+    "passwordHash": "$2b$10$bpYP5z1vEKBXJFvRH6lvte.dvO51iUtBYgnjiTdbIIPgCi0GxTZEO",
+    "phone": "01942 889900",
+    "customerType": "Wholesale / Foodservice",
+    "createdAt": "2026-08-06T17:28:53.568Z"
+  },
+  {
+    "id": "usr_003",
+    "name": "Pasco Trade Administrator",
+    "email": "admin@pascofoods.com",
+    "passwordHash": "$2b$10$SUjc47cPTtM6gLITismUKODYA03buW1tywwTrwmItOwZ2yu02iJ7G",
+    "phone": "01942 493220",
+    "customerType": "Wholesale / Foodservice",
+    "createdAt": "2026-08-06T17:28:53.623Z"
+  }
+]
